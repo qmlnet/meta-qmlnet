@@ -1,0 +1,12 @@
+diff --git a/QmlNet.pro
+index 70156af..edaddbe 100644
+--- a/QmlNet.pro
++++ b/QmlNet.pro
+@@ -7,7 +7,6 @@
+ QT       += gui qml qml-private core-private
+ 
+ CONFIG += c++11
+-CONFIG += plugin
+ 
+ TARGET = QmlNet
+ TEMPLATE = lib
